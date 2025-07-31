@@ -1,17 +1,14 @@
 ---
 layout: post
 title: Python Tricks - The Book (A Buffet of Awesome Python Features)
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: []
-tags: []
-comments: false
-mathjax: false
+subtitle: 
+cover-img: 
+thumbnail-img: /assets/img/Book1.jpg
+share-img: /assets/img/Book1.jpg
+tags: [Python, Tricks, Book]
 ---
 
-{: .box-success}
-**Simple** and **enough** explanation for what you need to do in Python. You can read more [here](https://realpython.com/products/python-tricks-book/).
-
-![Python Tricks Book](https://beautifuljekyll.com/assets/img/Book1.jpg)
+**_Simple_** and **_enough_** explanation for what you need to do in Python. 
+You can read more [here](https://realpython.com/products/python-tricks-book/).
 
 
