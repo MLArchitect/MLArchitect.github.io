@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Get to know a data enthusiast better.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I’m Ella Naderi, a former Industrial Engineer with a growing passion for data. I began my career in the oil and gas industry, where I was involved in managing engineering projects, coordinating construction and installation activities, and generating performance reports using tools like Primavera P6 and Excel.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Over time, I became increasingly interested in how data could enhance decision-making. This led me to shift my focus toward data analytics. In a retail environment, I worked on analyzing customer behavior, building dashboards with Power BI, and developing automated ETL pipelines using SQL and Power Query — efforts that improved reporting efficiency and boosted campaign performance.
 
-What else do you need?
-
+Eager to deepen my knowledge, I pursued a Master’s in Data Science and Society, combining my technical background with modern data science techniques. I’m now focused on turning data into meaningful insights that support impactful, data-driven decisions.
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I started my new journey from [this master](https://www.tilburguniversity.edu/education/masters-programs/fields/data-science)
