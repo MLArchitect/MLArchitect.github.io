@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ready Wear and Belling Sales Analysis 
-subtitle: 
+permalink: /portfolio/
 cover-img: 
 thumbnail-img: 
 share-img: 
