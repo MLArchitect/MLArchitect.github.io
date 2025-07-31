@@ -10,11 +10,10 @@
 ############################
 
 # Name of website
-title: My Portfolio testi
+title: Home
 
 # Your name to show in the footer
-author: Some Person
-
+author: Ella Naderi
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -50,14 +49,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "elhaam.naderi@gmail.com"
+  github: https://github.com/MLArchitect
+  twitter: https://x.com/EllaNaderi
+  whatsapp: +31639808194
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -94,8 +89,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: False
+  facebook: False
   linkedin: true
   vk: false
   reddit: false
@@ -105,7 +100,7 @@ share-links-active:
 url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
