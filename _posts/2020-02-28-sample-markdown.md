@@ -3,10 +3,10 @@ layout: post
 title: Python Tricks - The Book (A Buffet of Awesome Python Features)
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
+gh-badge: []
+tags: []
+comments: false
+mathjax: fasle
 
 ---
 
