@@ -19,13 +19,13 @@ author: Ella Naderi
 ###############################################
 
 navbar-links: 
-  About Me: "/aboutme/"
-  Portfolio: "/portfolio/"
-  Other Sites: ""
-
-  # About Me: "aboutme"
-  # Portfolio: "portfolio"
+  # About Me: "/aboutme/"
+  # Portfolio: "/portfolio/"
   # Other Sites: ""
+
+  About Me: "aboutme"
+  Portfolio: "portfolio"
+  Other Sites: ""
  
 
 ################
