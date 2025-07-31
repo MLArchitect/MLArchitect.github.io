@@ -18,11 +18,14 @@ author: Ella Naderi
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  
-  About Me: "aboutme"
-  Portfolio: "portfolio"
+navbar-links: 
+  About Me: "/aboutme/"
+  Portfolio: "/portfolio/"
   Other Sites: ""
+
+  # About Me: "aboutme"
+  # Portfolio: "portfolio"
+  # Other Sites: ""
  
 
 ################
