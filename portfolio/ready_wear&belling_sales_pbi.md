@@ -14,13 +14,13 @@ These are two brands that I investigated through their sales data in Australia f
 </p>
 
 <p align="center">
-  <img src="/assets/ready_wear_belling_sales_pbi.jpg" width="1000">
+  <img src="/assets/portfolio/ready_wear_belling_sales_pbi.jpg" width="1000">
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="/assets/ready_wear_belling_sales_pbi/ready_wear_belling_sales_pbi_02.jpg" width="1000">
+  <img src="/assets/portfolio/ready_wear_belling_sales_pbi/ready_wear_belling_sales_pbi_02.jpg" width="1000">
 </p>
 
 
