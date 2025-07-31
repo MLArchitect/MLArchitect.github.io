@@ -53,36 +53,7 @@ social-network-links:
   github: "MLArchitect"
   linkedin: "ellanaderi"
   twitter: "EllaNaderi"
-  # email: elhaam.naderi@gmail.com
-  # github: https://github.com/MLArchitect
-  # twitter: https://x.com/EllaNaderi
-  # linkedin: https://www.linkedin.com/in/ellanaderi
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
-#  strava: youruserid
-
+  
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 rss-description: This website is a virtual proof that I'm awesome
