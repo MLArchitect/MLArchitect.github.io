@@ -19,7 +19,7 @@ Simple and enough explanation for what you need to do in Python. You can read mo
 
 How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Crepe](https://beautifuljekyll.com/assets/img/Book1.jpg)
 
 It can also be centered!
 
