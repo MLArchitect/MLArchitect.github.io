@@ -7,7 +7,7 @@ tags: [ready wear, sales, analysis]
 
 
 <p align='justify'>
-These are two brands that I investigated through their sales data in Australia from 2015 to 2019. Below are dashboards I created to visualize this data.
+These are two brands that I investigated through their sales data in Australia from 2015 to 2019. Below are the dashboards I created to visualize this data.
 </p>
 
 <p align="center">
