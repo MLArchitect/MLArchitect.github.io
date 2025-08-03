@@ -5,7 +5,7 @@ permalink: /portfolio/
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [ready wear, sales, analysis]
+tags: [first, second, order, regression]
 ---
 <p align='justify'>
 Applying the <a href="https://seaborn.pydata.org/">Seaborn</a> library in Python is a way of making attractive statistical visualization. 
