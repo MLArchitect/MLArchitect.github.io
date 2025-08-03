@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: "Data Visualization and Dashboarding"
 cover-img: /assets/img/project1.jpg
 tags: [ready wear, sales, analysis]
