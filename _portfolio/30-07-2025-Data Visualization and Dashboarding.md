@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: page
 date: 2025-07-30
 title: "Data Visualization and Dashboarding"
 cover-img: /assets/img/project1.jpg
