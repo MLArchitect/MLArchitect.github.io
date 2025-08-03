@@ -2,13 +2,11 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
-subtitle: 
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [first, second, order, regression]
+tags: [ready wear, sales, analysis]
 ---
-
 <p align='justify'>
 Applying the <a href="https://seaborn.pydata.org/">Seaborn</a> library in Python is a way of making attractive statistical visualization. 
 There are some functions that help you to see regressions and predict the trends. I used data <a href="https://assets.datacamp.com/production/repositories/3996/datasets/e0b285b89bdbfbbe8d81123e64727ff150d544e0/mpg.csv">data</a> 
