@@ -1,5 +1,6 @@
 ---
 layout: portfolio
+date: 2025-07-30
 title: "Data Visualization and Dashboarding"
 cover-img: /assets/img/project1.jpg
 tags: [ready wear, sales, analysis]
