@@ -1,12 +1,10 @@
 ---
-layout: page
-title: portfolio
-permalink: /portfolio/
-cover-img: 
-thumbnail-img: 
-share-img: 
+layout: post
+title: "Data Visualization and Dashboarding"
+cover-img: /assets/img/project1.jpg
 tags: [ready wear, sales, analysis]
 ---
+
 
 <p align='justify'>
 These are two brands that I investigated through their sales data in Australia from 2015 to 2019. Below are dashboards I created to visualize this data.
