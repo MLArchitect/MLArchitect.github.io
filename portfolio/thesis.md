@@ -34,4 +34,10 @@ A correlation heatmap revealed that **life satisfaction**, **economic confidence
 
  📈 Feature Correlation with Happiness
 
-<p align="center
+
+<p align="center">
+  <img src="/assets/portfolio/Fig44.png" alt="Feature Correlation Plot" width="800">
+</p>
+
+These relationships were further confirmed using correlation plots and SHAP values, offering interpretable, data-driven insights that can support policy-making and intervention strategies to enhance societal well-being.
+
