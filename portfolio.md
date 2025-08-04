@@ -9,7 +9,12 @@ Due to my interest in data analysis and product development, I share some of my 
 
 ***
 ### Thesis Summary: Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques
-https://github.com/MLArchitect/MLArchitect.github.io/edit/master/portfolio/thesis_summary.md
+<p align='justify'>
+
+This study predicts happiness levels using data from the [European Social Survey Round 11 (ESS11)](https://ess.sikt.no/en/?tab=overview), working with 40,156 individuals across Europe. The problem was framed as a binary classification task. Four models—Logistic Regression, Random Forest, LightGBM, and XGBoost—were applied, with **Random Forest** performing best (F1-score: **89%**, recall for the “unhappy” class: **87%**).
+<a href="https://github.com/MLArchitect/MLArchitect.github.io/edit/master/portfolio/thesis_summary.md">read more</a>
+</p> 
+
 ### Data-Driven Product Management for A Service Platform (Applying Data Analysis in Product Management)
 
 <img alt="Service Platformt" src="/assets/portfolio/Air Taxi Service Plt.jpg" align="right" width="100" float:right>
