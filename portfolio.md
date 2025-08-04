@@ -8,40 +8,20 @@ subtitle: I am updating this page little by little.
 Due to my interest in data analysis and product development, I share some of my projects with you.  
 
 ***
-### Thesis Summary: Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques
+### Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques
+<img alt="Subject well_being" src="/assets/portfolio/happiness.jpeg" align="right" width="100" float:right>
 
 <p align='justify'>
-
-This study predicts happiness levels using data from the 
- 
-This study predicts happiness levels using data from <a href="https://ess.sikt.no/en/?tab=overview" target="_blank">European Social Survey Round 11 (ESS11)</a>, working with 40,156 individuals across Europe. The problem was framed as a binary classification task. Four models—Logistic Regression, Random Forest, LightGBM, and XGBoost—were applied, with **Random Forest** performing best (F1-score: **89%**, recall for the “unhappy” class: **87%**).
-
- 🔄 Machine Learning Pipeline
-
-<p align="center">
-  <img src="/assets/portfolio/Eli Colored 2.png" alt="Pipeline Diagram" width="600">
+ Thesis Summary ... <a href="https://mlarchitect.github.io/portfolio/thesis/">read more</a> 
 </p>
 
-The pipeline included:
-- Data cleaning and missing value imputation
-- Feature encoding and selection
-- Stratified train-test splitting (80/20)
-- Scaling and handling class imbalance
-- Model selection and hyperparameter tuning via 5-fold Random Search
+Main tools: **Scikit-learn** ,**Matplotlib**, **PostgreSQL**
+<br>
+<br>
+<br>
 
- 📊 Feature Relationships
 
-<p align="center">
-  <img src="/assets/portfolio/Fig3.png" alt="Correlation Heatmap" width="800">
-</p>
-
-A correlation heatmap revealed that **life satisfaction**, **economic confidence**, **trust in police**, and **mental health indicators** (e.g., loneliness, sadness) are strongly associated with happiness.
-
- 📈 Feature Correlation with Happiness
-
-<p align="center
- 
-### Data-Driven Product Management for A Service Platform (Applying Data Analysis in Product Management)
+ ### Data-Driven Product Management for A Service Platform (Applying Data Analysis in Product Management)
 
 <img alt="Service Platformt" src="/assets/portfolio/Air Taxi Service Plt.jpg" align="right" width="100" float:right>
 
@@ -55,10 +35,10 @@ Main tools: **Tableau** and **PostgreSQL**.
 <br>
 
 ### Market Data Analysis
-
+<img alt="Visulalization" src="/assets/portfolio/ERD.png" align="right" width="100" float:right>
 <p align='justify'>
 I did data analysis related to Marketing, Operations, and Finance domains. It is an effort to use SQL tools to do production and sales assessments, answer necessary questions, and give a ...
-<a href="https://mlarchitect.github.io/portfolio/Parch_Posey_DataAnalysis_PostgreSQL/">read more</a>
+<a href="https://mlarchitect.github.io/portfolio/ERD.png/">read more</a>
 </p> 
 
 Main tool: **PostgreSQL**
@@ -66,12 +46,15 @@ Main tool: **PostgreSQL**
 <br>
 <br>
 ### Data Visualization and Dashboarding 
+<img alt="Visulalization" src="/assets/portfolio/ready_wear&belling_sales_pbi.jpg" align="right" width="100" float:right>
+
 <p align='justify'>
 Through various tools, it could be possible to turn data into business insights. Thus, it helps related stakeholders and decision-makers to get through their business future steps correctly. Following, you can see some of my data visualizations and dashboards implemented in different tools.
   </p>
 <a href="https://mlarchitect.github.io/portfolio/1st_2nd_ord_reg_py_seaborn/"><b>First Order and Second Order Regression</b></a> (Main Tool: <b>Python - Seaborn library</b>)
 <br>
 <a href="https://mlarchitect.github.io/portfolio/country_reg_ind_py_bokeh/"><b>Countries/Regions Development Indicators</b></a> (Main Tool: <b>Python - Bokeh library</b>)
+
 <a href="https://mlarchitect.github.io/portfolio/ready_wear&belling_sales_pbi/"><b>Ready Wear and Belling Sales Analysis</b></a> (Main Tool: <b>Microsoft Power BI</b>)
 
  
