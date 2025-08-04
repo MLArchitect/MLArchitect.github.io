@@ -27,6 +27,8 @@ Through various tools, it could be possible to turn data into business insights.
 <a href="[https://m-memaran.github.io/home/portfolio/1st_2nd_ord_reg_py_seaborn/](https://github.com/MLArchitect/MLArchitect.github.io/blob/master/portfolio/1st_2nd_ord_reg_py_seaborn.md)"><b>First Order and Second Order Regression</b></a> (Main Tool: <b>Python - Seaborn library</b>)
 <br>
 <a href="https://m-memaran.github.io/home/portfolio/country_reg_ind_py_bokeh/"><b>Countries/Regions Development Indicators</b></a> (Main Tool: <b>Python - Bokeh library</b>)
-<br>
-<a href="https://m-memaran.github.io/home/portfolio/ready_wear&belling_sales_pbi/"><b>Ready Wear and Belling Sales Analysis</b></a> (Main Tool: <b>Microsoft Power BI</b>)
+<a href="https://github.com/MLArchitect/MLArchitect.github.io/blob/master/portfolio/ready_wear&belling_sales_pbi.md"><b>Ready Wear and Belling Sales Analysis</b></a> (Main Tool: <b>Microsoft Power BI</b>)
+
+ 
+
 
