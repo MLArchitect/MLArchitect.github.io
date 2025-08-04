@@ -24,11 +24,16 @@ Main tools: **Tableau**, **PostgreSQL**
 
 ***
 
-### [Market Data Analysis](https://mlarchitect.github.io/portfolio/ERD.png/)
+### [Market Data Analysis](https://mlarchitect.github.io/portfolio/Parch_Posey_DataAnalysis_PostgreSQL/)
 <img alt="Market Analysis" src="/assets/portfolio/ERD.png" align="right" width="100">
 
 Applied SQL analysis in marketing, operations, and finance contexts.  
 Main tool: **PostgreSQL**
+
+<p align='justify'>
+I did data analysis related to Marketing, Operations, and Finance domains. It is an effort to use SQL tools to do production and sales assessments, answer necessary questions, and give a ...
+<a href="https://mlarchitect.github.io/portfolio/Parch_Posey_DataAnalysis_PostgreSQL/">read more</a>
+</p
 
 ***
 
