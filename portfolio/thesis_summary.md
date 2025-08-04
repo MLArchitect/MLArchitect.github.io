@@ -11,7 +11,7 @@ This study predicts happiness levels using data from the [European Social Survey
 ## 🔄 Machine Learning Pipeline
 
 <p align="center">
-  <img src="assets/portfolio/Eli_Colored_2.png" alt="Pipeline Diagram" width="800">
+  <img src="/assets/portfolio/Eli_Colored_2.png" alt="Pipeline Diagram" width="800">
 </p>
 
 The pipeline included:
@@ -24,7 +24,7 @@ The pipeline included:
 ## 📊 Feature Relationships
 
 <p align="center">
-  <img src="assets/portfolio/Fig3.png" alt="Correlation Heatmap" width="800">
+  <img src="/assets/portfolio/Fig3.png" alt="Correlation Heatmap" width="800">
 </p>
 
 A correlation heatmap revealed that **life satisfaction**, **economic confidence**, **trust in police**, and **mental health indicators** (e.g., loneliness, sadness) are strongly associated with happiness.
@@ -32,7 +32,7 @@ A correlation heatmap revealed that **life satisfaction**, **economic confidence
 ## 📈 Feature Correlation with Happiness
 
 <p align="center">
-  <img src="assets/portfolio/Fig44.png" alt="Feature Correlation Plot" width="800">
+  <img src="/assets/portfolio/Fig44.png" alt="Feature Correlation Plot" width="800">
 </p>
 
 These relationships were further confirmed using correlation plots and SHAP values, offering interpretable, data-driven insights that can support policy-making and intervention strategies to enhance societal well-being.
