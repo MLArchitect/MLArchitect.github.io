@@ -8,5 +8,6 @@ share-img: /assets/img/pytricks-book.jpg
 tags: [Python, Tricks, Book]
 ---
 
+You can read more [here](https://realpython.com/products/python-tricks-book/).
 
- You can read more[**here**](https://realpython.com/products/python-tricks-book/)
+
