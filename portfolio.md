@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-#permalink: /portfolio/
+
 subtitle: I am updating this page little by little. 
 ---
 
@@ -39,7 +39,8 @@ A correlation heatmap revealed that **life satisfaction**, **economic confidence
 
  📈 Feature Correlation with Happiness
 
-<p align="center">
+<p align="center
+ 
 ### Data-Driven Product Management for A Service Platform (Applying Data Analysis in Product Management)
 
 <img alt="Service Platformt" src="/assets/portfolio/Air Taxi Service Plt.jpg" align="right" width="100" float:right>
