@@ -8,6 +8,8 @@ subtitle: I am updating this page little by little.
 Due to my interest in data analysis and product development, I share some of my projects with you.  
 
 ***
+### Thesis Summary: Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques
+https://github.com/MLArchitect/MLArchitect.github.io/edit/master/portfolio/thesis_summary.md
 ### Data-Driven Product Management for A Service Platform (Applying Data Analysis in Product Management)
 
 <img alt="Service Platformt" src="/assets/portfolio/Air Taxi Service Plt.jpg" align="right" width="100" float:right>
