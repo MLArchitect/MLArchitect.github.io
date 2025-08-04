@@ -10,6 +10,7 @@ tags: [Machine Learning, Subjective Well-Being, Happiness Prediction, European S
 
 This study predicts happiness levels using data from <a href="https://ess.sikt.no/en/?tab=overview" target="_blank">European Social Survey Round 11 (ESS11)</a>, working with 40,156 individuals across Europe. The problem was framed as a binary classification task. Four models—Logistic Regression, Random Forest, LightGBM, and XGBoost—were applied, with **Random Forest** performing best (F1-score: **89%**, recall for the “unhappy” class: **87%**).
 
+
  🔄 Machine Learning Pipeline
 
 <p align="center">
