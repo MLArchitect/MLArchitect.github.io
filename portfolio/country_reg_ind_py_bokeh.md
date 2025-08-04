@@ -16,5 +16,5 @@ how child mortality is less in countries with higher life expectancy in a specif
 </p>
 
 <p align="center">
-<img src="assets/img/portfolio/country_reg_ind_py_bokeh-pic-01.jpg" width="1000">
+<img src="assets/portfolio/country_reg_ind_py_bokeh-pic-01.jpg" width="1000">
 </p>
