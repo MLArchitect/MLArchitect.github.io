@@ -6,7 +6,7 @@ tags: [Machine Learning, Subjective Well-Being, Happiness Prediction, European S
 
 # Thesis Summary: Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques
 
-This study predicts happiness levels using data from the [European Social Survey Round 11 (ESS11)](https://www.europeansocialsurvey.org/data/round-index.html), working with 40,156 individuals across Europe. The problem was framed as a binary classification task. Four models—Logistic Regression, Random Forest, LightGBM, and XGBoost—were applied, with **Random Forest** performing best (F1-score: **89%**, recall for the “unhappy” class: **87%**).
+This study predicts happiness levels using data from the [European Social Survey Round 11 (ESS11)](https://ess.sikt.no/en/?tab=overview), working with 40,156 individuals across Europe. The problem was framed as a binary classification task. Four models—Logistic Regression, Random Forest, LightGBM, and XGBoost—were applied, with **Random Forest** performing best (F1-score: **89%**, recall for the “unhappy” class: **87%**).
 
 ## 🔄 Machine Learning Pipeline
 
