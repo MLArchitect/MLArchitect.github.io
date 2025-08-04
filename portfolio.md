@@ -8,6 +8,18 @@ subtitle: I am updating this page little by little.
 Due to my interest in data analysis and product development, I share some of my projects with you.  
 
 ***
+### Data-Driven Product Management for A Service Platform (Applying Data Analysis in Product Management)
+
+<img alt="Service Platformt" src="/assets/portfolio/Air Taxi Service Plt.jpg" align="right" width="100" float:right>
+
+<p align='justify'>
+Thanks to digital technologies used in products more and more, the amount of generated data will rise intensively. As a result, product managers can leverage their data skills and resources to make better decisions, from defining the minimum viable product to iterative design & experimentation. Data could be any type from the market, sales, finance, etc. They bring helpful insight to product managers and ... <a href="https://github.com/MLArchitect/MLArchitect.github.io/blob/master/portfolio/DataProductManagement_AirTaxiService.md">read more</a> 
+</p>
+
+Main tools: **Tableau** and **PostgreSQL**.
+<br>
+<br>
+<br>
 
 ### Market Data Analysis
 
