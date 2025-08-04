@@ -52,7 +52,7 @@ The data comes from the market (ground taxi services) and user research in New Y
  </ul>
 </p>
 <p align="center">
-<img src="/assets/img/portfolio/Pas.count.jpg" width="500">
+<img src="/assets/portfolio/Pas.count.jpg" width="500">
 </p>
 
 <p align='justify'>
@@ -61,7 +61,7 @@ The data comes from the market (ground taxi services) and user research in New Y
  </ul>
 </p>
 <p align="center">
-<img src="/assets/img/portfolio/pas.sentiments.jpg" width="450">
+<img src="/assets/portfolio/pas.sentiments.jpg" width="450">
 </p>
 <p align='justify'>
   The representation of negative sentiments shows most users who disagree are worried about safety (air taxi and its pilot). The second primary reason is the taxi fare, which some users believe is expensive. 
@@ -78,7 +78,7 @@ Getting enough insight from data and realizing current problems, it is time to p
 Following KPIs, Minimum Viable Product (MVP) is defined. It includes the features to solve problems and a fully-fledged product proposal. The proposed MVP sample size & period allotted to conclude the hypothesis are 5000 and 21 days, respectively. The below table shows some of the events, which are necessary to be logged. They provide appropriate data for KPIs measuring.
 </p>
 <p align="center">
-<img src="/assets/img/portfolio/events.jpg" width="550">
+<img src="/assets/portfolio/events.jpg" width="550">
 </p>
 
 
