@@ -1,9 +1,8 @@
 ---
 layout: page
-date: 2025-08-03
 title: "First Order and Second Order Regression"
 cover-img: /assets/img/project1.jpg
-tags: [regression, analysis]
+tags: [first, second, order, regression]
 ---
 
 This is my project description.
