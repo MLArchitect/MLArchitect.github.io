@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques"
 tags: [Machine Learning, Subjective Well-Being, Happiness Prediction, European Social Survey, Data Science, Random Forest, SHAP, Classification, Policy Impact]
 
