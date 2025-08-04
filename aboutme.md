@@ -11,4 +11,4 @@ Over time, I became increasingly interested in how data could enhance decision-m
 Eager to deepen my knowledge, I pursued a Master’s in Data Science and Society, combining my technical background with modern data science techniques. I’m now focused on turning data into meaningful insights that support impactful, data-driven decisions.
 ### My story
 
-I started my new journey from [this master](https://www.tilburguniversity.edu/education/masters-programs/fields/data-science)
+I started my new journey from my Master at [Tilburg University](https://www.tilburguniversity.edu/education/masters-programs/fields/data-science)
