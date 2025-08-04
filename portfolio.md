@@ -46,7 +46,7 @@ A correlation heatmap revealed that **life satisfaction**, **economic confidence
 <img alt="Service Platformt" src="/assets/portfolio/Air Taxi Service Plt.jpg" align="right" width="100" float:right>
 
 <p align='justify'>
-Thanks to digital technologies used in products more and more, the amount of generated data will rise intensively. As a result, product managers can leverage their data skills and resources to make better decisions, from defining the minimum viable product to iterative design & experimentation. Data could be any type from the market, sales, finance, etc. They bring helpful insight to product managers and ... <a href="https://mlarchitect.github.io/portfolio/DataProductManagement_AirTaxiService">read more</a> 
+Thanks to digital technologies used in products more and more, the amount of generated data will rise intensively. As a result, product managers can leverage their data skills and resources to make better decisions, from defining the minimum viable product to iterative design & experimentation. Data could be any type from the market, sales, finance, etc. They bring helpful insight to product managers and ... <a href="https://mlarchitect.github.io/portfolio/DataProductManagement_AirTaxiService/">read more</a> 
 </p>
 
 Main tools: **Tableau** and **PostgreSQL**.
@@ -58,7 +58,7 @@ Main tools: **Tableau** and **PostgreSQL**.
 
 <p align='justify'>
 I did data analysis related to Marketing, Operations, and Finance domains. It is an effort to use SQL tools to do production and sales assessments, answer necessary questions, and give a ...
-<a href="https://mlarchitect.github.io/portfolio/Parch_Posey_DataAnalysis_PostgreSQL">read more</a>
+<a href="https://mlarchitect.github.io/portfolio/Parch_Posey_DataAnalysis_PostgreSQL/">read more</a>
 </p> 
 
 Main tool: **PostgreSQL**
@@ -69,10 +69,10 @@ Main tool: **PostgreSQL**
 <p align='justify'>
 Through various tools, it could be possible to turn data into business insights. Thus, it helps related stakeholders and decision-makers to get through their business future steps correctly. Following, you can see some of my data visualizations and dashboards implemented in different tools.
   </p>
-<a href="https://mlarchitect.github.io/portfolio/1st_2nd_ord_reg_py_seaborn"><b>First Order and Second Order Regression</b></a> (Main Tool: <b>Python - Seaborn library</b>)
+<a href="https://mlarchitect.github.io/portfolio/1st_2nd_ord_reg_py_seaborn/"><b>First Order and Second Order Regression</b></a> (Main Tool: <b>Python - Seaborn library</b>)
 <br>
-<a href="https://mlarchitect.github.io/portfolio/country_reg_ind_py_bokeh"><b>Countries/Regions Development Indicators</b></a> (Main Tool: <b>Python - Bokeh library</b>)
-<a href="https://mlarchitect.github.io/portfolio/ready_wear&belling_sales_pbi"><b>Ready Wear and Belling Sales Analysis</b></a> (Main Tool: <b>Microsoft Power BI</b>)
+<a href="https://mlarchitect.github.io/portfolio/country_reg_ind_py_bokeh/"><b>Countries/Regions Development Indicators</b></a> (Main Tool: <b>Python - Bokeh library</b>)
+<a href="https://mlarchitect.github.io/portfolio/ready_wear&belling_sales_pbi/"><b>Ready Wear and Belling Sales Analysis</b></a> (Main Tool: <b>Microsoft Power BI</b>)
 
  
 
