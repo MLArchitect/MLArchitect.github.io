@@ -11,7 +11,7 @@ This study predicts happiness levels using data from the [European Social Survey
 ## 🔄 Machine Learning Pipeline
 
 <p align="center">
-  <img src="/assets/portfolio/Eli_Colored_2.png" alt="Pipeline Diagram" width="400">
+  <img src="/assets/portfolio/Eli Colored 2.png" alt="Pipeline Diagram" width="600">
 </p>
 
 The pipeline included:
