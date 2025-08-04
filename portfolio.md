@@ -13,11 +13,33 @@ Due to my interest in data analysis and product development, I share some of my 
 <p align='justify'>
 
 This study predicts happiness levels using data from the 
-<a href="https://ess.sikt.no/en/?tab=overview" target="_blank">European Social Survey Round 11 (ESS11)</a>, 
-working with 40,156 individuals across Europe. The problem was framed as a binary classification task. Four models—Logistic Regression, Random Forest, LightGBM, and XGBoost—were applied, with <strong>Random Forest</strong> performing best (F1-score: <strong>89%</strong>, recall for the “unhappy” class: <strong>87%</strong>).
-<a href="https://github.com/MLArchitect/MLArchitect.github.io/blob/master/portfolio/thesis_summary.md" target="_blank">Read more →</a>
+ 
+This study predicts happiness levels using data from <a href="https://ess.sikt.no/en/?tab=overview" target="_blank">European Social Survey Round 11 (ESS11)</a>, working with 40,156 individuals across Europe. The problem was framed as a binary classification task. Four models—Logistic Regression, Random Forest, LightGBM, and XGBoost—were applied, with **Random Forest** performing best (F1-score: **89%**, recall for the “unhappy” class: **87%**).
+
+## 🔄 Machine Learning Pipeline
+
+<p align="center">
+  <img src="/assets/portfolio/Eli Colored 2.png" alt="Pipeline Diagram" width="600">
 </p>
 
+The pipeline included:
+- Data cleaning and missing value imputation
+- Feature encoding and selection
+- Stratified train-test splitting (80/20)
+- Scaling and handling class imbalance
+- Model selection and hyperparameter tuning via 5-fold Random Search
+
+## 📊 Feature Relationships
+
+<p align="center">
+  <img src="/assets/portfolio/Fig3.png" alt="Correlation Heatmap" width="800">
+</p>
+
+A correlation heatmap revealed that **life satisfaction**, **economic confidence**, **trust in police**, and **mental health indicators** (e.g., loneliness, sadness) are strongly associated with happiness.
+
+## 📈 Feature Correlation with Happiness
+
+<p align="center">
 ### Data-Driven Product Management for A Service Platform (Applying Data Analysis in Product Management)
 
 <img alt="Service Platformt" src="/assets/portfolio/Air Taxi Service Plt.jpg" align="right" width="100" float:right>
