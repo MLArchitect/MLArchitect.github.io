@@ -53,7 +53,7 @@ Main tools: **Tableau** and **PostgreSQL**.
 <br>
 <br>
 
-### Market Data Analysis
+#### Market Data Analysis
 
 <p align='justify'>
 I did data analysis related to Marketing, Operations, and Finance domains. It is an effort to use SQL tools to do production and sales assessments, answer necessary questions, and give a ...
@@ -64,7 +64,7 @@ Main tool: **PostgreSQL**
 <br>
 <br>
 <br>
-### Data Visualization and Dashboarding 
+#### Data Visualization and Dashboarding 
 <p align='justify'>
 Through various tools, it could be possible to turn data into business insights. Thus, it helps related stakeholders and decision-makers to get through their business future steps correctly. Following, you can see some of my data visualizations and dashboards implemented in different tools.
 </p>
