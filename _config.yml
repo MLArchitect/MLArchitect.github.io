@@ -268,8 +268,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs
- include:
-  - portfolio
+ 
 
 
 plugins:
