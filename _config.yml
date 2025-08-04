@@ -233,7 +233,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Amsterdam"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -268,11 +268,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-# I added
- collections:
-  portfolio:
-   output: true
-   permalink: /portfolio/:title/
+
 
 
 plugins:
