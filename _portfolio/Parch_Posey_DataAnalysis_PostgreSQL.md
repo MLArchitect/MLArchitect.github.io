@@ -27,7 +27,7 @@ The database has five tables including:
 The Entity Relationship Diagram (ERD) for tables is as below:
 </p>
 <p align="center">
-<img src="/master/assets/portfolio-/ERD.png" width="700">
+<img src="/master/assets/portfolio/ERD.png" width="700">
 </p>
    
  
