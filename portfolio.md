@@ -8,32 +8,39 @@ Due to my interest in data analysis and product development, I share some of my 
 
 ***
 
-### [Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques](https://mlarchitect.github.io/portfolio/thesis/)
+### Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques
 <img alt="Subject well_being" src="/assets/portfolio/happiness.jpeg" align="right" width="100">
 
 This study uses data from the [ESS11](https://ess.sikt.no/en/?tab=overview) to model happiness prediction. Random Forest achieved the best performance (F1-score: 89%).  
 Main tools: **Scikit-learn**, **Matplotlib**, **PostgreSQL**
 
+<p align='justify'>
+<a href="https://mlarchitect.github.io/portfolio/thesis/">Read more</a>
+</p>
+
 ***
 
-### [Data-Driven Product Management for a Service Platform](https://mlarchitect.github.io/portfolio/DataProductManagement_AirTaxiService/)
+### Data-Driven Product Management for a Service Platform
 <img alt="Service Platform" src="/assets/portfolio/Air Taxi Service Plt.jpg" align="right" width="100">
 
 How product managers can use data in iterative design and business decision-making.  
 Main tools: **Tableau**, **PostgreSQL**
 
+<p align='justify'>
+<a href="https://mlarchitect.github.io/portfolio/DataProductManagement_AirTaxiService/">Read more</a>
+</p>
+
 ***
 
-### [Market Data Analysis](https://mlarchitect.github.io/portfolio/Parch_Posey_DataAnalysis_PostgreSQL/)
+### Market Data Analysis
 <img alt="Market Analysis" src="/assets/portfolio/ERD.png" align="right" width="100">
 
 Applied SQL analysis in marketing, operations, and finance contexts.  
 Main tool: **PostgreSQL**
 
 <p align='justify'>
-I did data analysis related to Marketing, Operations, and Finance domains. It is an effort to use SQL tools to do production and sales assessments, answer necessary questions, and give a ...
-<a href="https://mlarchitect.github.io/portfolio/Parch_Posey_DataAnalysis_PostgreSQL/">read more</a>
-</p
+<a href="https://mlarchitect.github.io/portfolio/Parch_Posey_DataAnalysis_PostgreSQL/">Read more</a>
+</p>
 
 ***
 
@@ -42,13 +49,13 @@ I did data analysis related to Marketing, Operations, and Finance domains. It is
 
 I created business dashboards and data visualizations with different tools:  
 
-- [**First Order and Second Order Regression**](https://mlarchitect.github.io/portfolio/1st_2nd_ord_reg_py_seaborn/)  
+- <a href="https://mlarchitect.github.io/portfolio/1st_2nd_ord_reg_py_seaborn/">First Order and Second Order Regression</a>  
   Main tool: **Python (Seaborn)**
 
-- [**Countries/Regions Development Indicators**](https://mlarchitect.github.io/portfolio/country_reg_ind_py_bokeh/)  
+- <a href="https://mlarchitect.github.io/portfolio/country_reg_ind_py_bokeh/">Countries/Regions Development Indicators</a>  
   Main tool: **Python (Bokeh)**
 
-- [**Ready Wear and Belling Sales Analysis**](https://mlarchitect.github.io/portfolio/ready_wear&belling_sales_pbi/)  
+- <a href="https://mlarchitect.github.io/portfolio/ready_wear&belling_sales_pbi/">Ready Wear and Belling Sales Analysis</a>  
   Main tool: **Power BI**
 
 ***
