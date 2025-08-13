@@ -2,9 +2,9 @@
 layout: post
 title: Automate the Boring Stuff with Python
 subtitle: 
-cover-img: /assets/img/digital-world.jpg
-thumbnail-img: /assets/img/Digital-transformation.jpg
-share-img: /assets/img/Digital-transformation.jpg
+cover-img: /assets/img/automation.jpg
+thumbnail-img: /assets/img/automation.jpg
+share-img: /assets/img/automation.jpg
 tags: [Book, Python, Pandas, API,practical-python ]
 ---
 
