@@ -20,18 +20,6 @@ Main tools: **Scikit-learn**, **Matplotlib**, **PostgreSQL**
 
 ***
 
-### Data-Driven Product Management for a Service Platform
-<img alt="Service Platform" src="/assets/portfolio/Air Taxi Service Plt.jpg" align="right" width="100">
-
-How product managers can use data in iterative design and business decision-making.  
-Main tools: **Tableau**, **PostgreSQL**
-
-<p align='justify'>
-<a href="https://mlarchitect.github.io/portfolio/DataProductManagement_AirTaxiService/">Read more</a>
-</p>
-
-***
-
 ### Market Data Analysis
 <img alt="Market Analysis" src="/assets/portfolio/ERD.png" align="right" width="100">
 
