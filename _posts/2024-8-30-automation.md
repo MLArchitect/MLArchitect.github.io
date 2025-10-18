@@ -52,5 +52,5 @@ Current temperature (°C): 22.5
 
 
 
-To know more, you can read the book [**Here**]([https://edu.anarcho-copy.org/Programming%20Languages/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf])
+To know more, you can read the book [**Here**]([https://automatetheboringstuff.com/])
 
