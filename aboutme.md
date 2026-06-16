@@ -4,11 +4,8 @@ title: About me
 subtitle: Get to know a data enthusiast better.
 ---
 
-Hi, I’m Ella Naderi, a former Industrial Engineer with a growing passion for data. I began my career in the oil and gas industry, managing engineering projects, coordinating installations, and generating performance reports with Primavera P6 and Excel.
+Hi, I'm Ella Naderi — a Data Analyst with a strong foundation in data engineering, BI architecture, and the modern data stack.
 
-Over time, I have became increasingly interested in how data could enhance decision-making. This led me to shift my focus toward data analytics. In a retail environment, I analyzed customer behavior, built dashboards with Power BI, and developed automated ETL pipelines using SQL and Power Query — efforts that improved reporting efficiency and boosted campaign performance.
+My background spans multiple industries and both sides of the data pipeline: I've built the models and infrastructure that power reliable reporting, and I've delivered the dashboards and insights that help stakeholders make better decisions. I hold an MSc in Data Science from Tilburg University and hands-on experience with Azure Databricks, PySpark, Delta Lake, Power BI, and SQL.
 
-Eager to deepen my knowledge, I pursued a Master’s in Data Science and Society, combining my technical background with modern data science techniques. I’m now focused on transforming data into meaningful insights that drive impactful decisions.
-### My story
-
-I started my new journey from [Tilburg University](https://www.tilburguniversity.edu/education/masters-programs/fields/data-science)
+I'm flexible, technically curious, and always looking for what's next — in tools, in problems, and in the ways data can create real impact.
