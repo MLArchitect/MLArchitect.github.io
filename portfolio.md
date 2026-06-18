@@ -9,6 +9,8 @@ Due to my interest in data analysis and product development, I share some of my 
 ***
 
 ### Databricks Apparel Streaming Pipeline
+<img alt="DLT Pipeline" src="https://raw.githubusercontent.com/MLArchitect/databricks-apparel-streaming/main/DLT.png" align="right" width="150">
+
 Real-time streaming data pipeline built on **Databricks Delta Live Tables** and **Unity Catalog**, implementing a medallion architecture for apparel retail analytics. Features Auto Loader ingestion, SCD Type 2 for customer and product dimensions, DLT data quality expectations, and materialized Gold views.  
 Main tools: **Azure Databricks**, **Delta Live Tables**, **PySpark**, **Auto Loader**, **Unity Catalog**
 
