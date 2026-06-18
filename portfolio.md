@@ -20,6 +20,16 @@ Main tools: **PySpark**, **Delta Lake**, **Spotify API**, **Docker**, **GitHub A
 
 ***
 
+### Databricks Apparel Streaming Pipeline
+Real-time streaming data pipeline built on **Databricks Delta Live Tables** and **Unity Catalog**, implementing a medallion architecture for apparel retail analytics. Features Auto Loader ingestion, SCD Type 2 for customer and product dimensions, DLT data quality expectations, and materialized Gold views.  
+Main tools: **Azure Databricks**, **Delta Live Tables**, **PySpark**, **Auto Loader**, **Unity Catalog**
+
+<p align='justify'>
+<a href="https://mlarchitect.github.io/portfolio/databricks_apparel_streaming/">Read more</a>
+</p>
+
+***
+
 ### Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques
 <img alt="Subject well_being" src="/assets/portfolio/happiness.jpeg" align="right" width="100">
 
