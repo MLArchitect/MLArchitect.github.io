@@ -20,21 +20,11 @@ The pipeline processes four real-time data streams: sales transactions, customer
 
 ## Pipeline Architecture
 
-```
-Synthetic Data Generator (sales / customers / products / stores)
-              |
-              v
-     00_landing (Unity Catalog Volume)
-              |
-              v
-     01_bronze  ← Auto Loader streaming ingestion + schema enforcement
-              |
-              v
-     02_silver  ← Cleaning, SCD Type 2, data quality expectations
-              |
-              v
-     03_gold    ← Aggregations and materialized views
-```
+<p align="center">
+<img src="https://raw.githubusercontent.com/MLArchitect/databricks-apparel-streaming/main/DLT.png" width="900" alt="DLT Pipeline Graph">
+</p>
+
+The DLT pipeline graph above shows all tables completing successfully (green checkmarks). Each stream flows independently through Bronze → Silver → Gold before joining into the denormalized sales facts table.
 
 All four schemas live inside the **`apparel_store`** Unity Catalog:
 
@@ -161,24 +151,6 @@ All tables, schemas, and volumes are registered in <strong>Databricks Unity Cata
 - **Centralized access control** — permissions managed at catalog, schema, or table level
 - **Data lineage** — Unity Catalog automatically tracks how data flows between tables
 - **Audit logs** — every read and write is logged for compliance
-
-***
-
-## Project Structure
-
-```
-apparel_project/
-├── variables.py              # Shared config: catalog, schema, and table names
-├── data_generator.py         # Synthetic retail data generator
-├── environment_setup         # Unity Catalog setup and volume creation
-├── environment_maintenance   # Cleanup utilities
-├── 01_bronze                 # DLT Bronze streaming tables
-├── 02A_silver.py             # Silver: customers + SCD Type 2
-├── 02B_silver.py             # Silver: products + SCD Type 2
-├── 02C_silver.py             # Silver: sales transactions + returns
-├── 02D_silver.py             # Silver: stores
-└── 03_gold.py                # Gold: aggregations and materialized views
-```
 
 ***
 
