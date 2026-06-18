@@ -8,6 +8,16 @@ Due to my interest in data analysis and product development, I share some of my 
 
 ***
 
+### Databricks Apparel Streaming Pipeline
+Real-time streaming data pipeline built on **Databricks Delta Live Tables** and **Unity Catalog**, implementing a medallion architecture for apparel retail analytics. Features Auto Loader ingestion, SCD Type 2 for customer and product dimensions, DLT data quality expectations, and materialized Gold views.  
+Main tools: **Azure Databricks**, **Delta Live Tables**, **PySpark**, **Auto Loader**, **Unity Catalog**
+
+<p align='justify'>
+<a href="https://mlarchitect.github.io/portfolio/databricks_apparel_streaming/">Read more</a>
+</p>
+
+***
+
 ### PySpark Spotify ETL Pipeline
 <img alt="Spotify ETL Architecture" src="/assets/portfolio/spotify-etl-architecture.png" align="right" width="150">
 
@@ -16,16 +26,6 @@ Main tools: **PySpark**, **Delta Lake**, **Spotify API**, **Docker**, **GitHub A
 
 <p align='justify'>
 <a href="https://mlarchitect.github.io/portfolio/pyspark_spotify_etl/">Read more</a>
-</p>
-
-***
-
-### Databricks Apparel Streaming Pipeline
-Real-time streaming data pipeline built on **Databricks Delta Live Tables** and **Unity Catalog**, implementing a medallion architecture for apparel retail analytics. Features Auto Loader ingestion, SCD Type 2 for customer and product dimensions, DLT data quality expectations, and materialized Gold views.  
-Main tools: **Azure Databricks**, **Delta Live Tables**, **PySpark**, **Auto Loader**, **Unity Catalog**
-
-<p align='justify'>
-<a href="https://mlarchitect.github.io/portfolio/databricks_apparel_streaming/">Read more</a>
 </p>
 
 ***
