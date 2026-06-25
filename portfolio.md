@@ -22,7 +22,8 @@ Main tools: **Azure Databricks**, **Delta Live Tables**, **PySpark**, **Auto Loa
 
 ***
 
-#### How to Track Music Industry Trends With a Production-Grade Pipeline
+#### How to Track Music Industry Trends
+<small>Production-grade pipeline fed with Spotify API</small>  
 <img alt="Spotify ETL Architecture" src="/assets/portfolio/spotify-etl-architecture.png" align="right" width="150">
 
 End-to-end data pipeline pulling new album releases from the Spotify API, processed through a **medallion architecture** (Bronze → Silver → Gold) with PySpark and Delta Lake. Features incremental loads via Delta MERGE, a star schema design, and CI/CD with GitHub Actions.  
