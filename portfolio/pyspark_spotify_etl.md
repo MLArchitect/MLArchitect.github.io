@@ -11,7 +11,7 @@ tags: [PySpark, Delta Lake, Spotify API, ETL, Data Engineering, Docker, GitHub A
 <h4>PySpark Spotify ETL Pipeline</h4>
 
 <p align='justify'>
-I built this project to prove a point: even a fun dataset like Spotify releases deserves production-grade engineering. The result is a pipeline that automatically tracks new album releases, models artist activity over time, and surfaces year-over-year growth trends — giving a music label, streaming platform, or analyst a reliable feed of market intelligence without touching the API more than once.
+Every week, thousands of new albums drop on Spotify. But how do you actually track which artists are releasing more music year after year — and which ones are growing? You can't do it manually. This project builds the automated pipeline that does it for you: pulling fresh data from Spotify every time it runs, cleaning it, organizing it, and delivering ready-to-use trend reports — without touching the API more than once.
 </p>
 
 ***
