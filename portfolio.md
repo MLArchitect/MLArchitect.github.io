@@ -10,7 +10,7 @@ Data is only valuable when it drives decisions. These projects are my way of bri
 
 ***
 
-### Databricks Apparel Streaming Pipeline
+#### Databricks Apparel Streaming Pipeline
 <img alt="DLT Pipeline" src="https://raw.githubusercontent.com/MLArchitect/databricks-apparel-streaming/main/DLT.png" align="right" width="150">
 
 Real-time streaming data pipeline built on **Databricks Delta Live Tables** and **Unity Catalog**, implementing a medallion architecture for apparel retail analytics. Features Auto Loader ingestion, SCD Type 2 for customer and product dimensions, DLT data quality expectations, and materialized Gold views.  
@@ -22,7 +22,7 @@ Main tools: **Azure Databricks**, **Delta Live Tables**, **PySpark**, **Auto Loa
 
 ***
 
-### PySpark Spotify ETL Pipeline
+#### PySpark Spotify ETL Pipeline
 <img alt="Spotify ETL Architecture" src="/assets/portfolio/spotify-etl-architecture.png" align="right" width="150">
 
 End-to-end data pipeline pulling new album releases from the Spotify API, processed through a **medallion architecture** (Bronze → Silver → Gold) with PySpark and Delta Lake. Features incremental loads via Delta MERGE, a star schema design, and CI/CD with GitHub Actions.  
@@ -34,7 +34,7 @@ Main tools: **PySpark**, **Delta Lake**, **Spotify API**, **Docker**, **GitHub A
 
 ***
 
-### Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques
+#### Predicting Subjective Well-Being (SWB) of European Individuals Using Advanced Machine Learning Techniques
 <img alt="Subject well_being" src="/assets/portfolio/happiness.jpeg" align="right" width="100">
 
 This study uses data from the [ESS11](https://ess.sikt.no/en/?tab=overview) to model happiness prediction. Random Forest achieved the best performance (F1-score: 89%).  
@@ -46,7 +46,7 @@ Main tools: **Scikit-learn**, **Matplotlib**, **PostgreSQL**
 
 ***
 
-### Market Data Analysis
+#### Market Data Analysis
 <img alt="Market Analysis" src="/assets/portfolio/ERD.png" align="right" width="100">
 
 Applied SQL analysis in marketing, operations, and finance contexts.  
@@ -58,7 +58,7 @@ Main tool: **PostgreSQL**
 
 ***
 
-### Data Visualization and Dashboarding
+#### Data Visualization and Dashboarding
 <img alt="Visualization" src="/assets/portfolio/ready_wear&belling_sales_pbi.jpg" align="right" width="100">
 
 I created business dashboards and data visualizations with different tools:  
