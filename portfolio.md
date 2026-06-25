@@ -13,7 +13,7 @@ Data is only valuable when it drives decisions. These projects are my way of bri
 #### How Do Retailers Know What's Happening in Their Stores Right Now?
 <img alt="DLT Pipeline" src="https://raw.githubusercontent.com/MLArchitect/databricks-apparel-streaming/main/DLT.png" align="right" width="150">
 
-Real-time streaming data pipeline built on **Databricks Delta Live Tables** and **Unity Catalog**, implementing a medallion architecture for apparel retail analytics. Features Auto Loader ingestion, SCD Type 2 for customer and product dimensions, DLT data quality expectations, and materialized Gold views.  
+A retail store generates data every second — every sale, every return, every customer interaction. The problem is that data alone doesn't help anyone. It needs to be collected, cleaned, and organized before a manager can use it. This project does exactly that: it takes raw transaction data from four streams and turns it into a live dashboard of business intelligence — automatically, reliably, and in real time.  
 Main tools: **Azure Databricks**, **Delta Live Tables**, **PySpark**, **Auto Loader**, **Unity Catalog**
 
 <p align='justify'>
@@ -26,7 +26,7 @@ Main tools: **Azure Databricks**, **Delta Live Tables**, **PySpark**, **Auto Loa
 **Production-grade pipeline fed with Spotify API**  
 <img alt="Spotify ETL Architecture" src="/assets/portfolio/spotify-etl-architecture.png" align="right" width="150">
 
-End-to-end data pipeline pulling new album releases from the Spotify API, processed through a **medallion architecture** (Bronze → Silver → Gold) with PySpark and Delta Lake. Features incremental loads via Delta MERGE, a star schema design, and CI/CD with GitHub Actions.  
+Every week, thousands of new albums drop on Spotify. But how do you actually track which artists are releasing more music year after year — and which ones are growing? You can't do it manually. This project builds the automated pipeline that does it for you: pulling fresh data from Spotify every time it runs, cleaning it, organizing it, and delivering ready-to-use trend reports — without touching the API more than once.  
 Main tools: **PySpark**, **Delta Lake**, **Spotify API**, **Docker**, **GitHub Actions**
 
 <p align='justify'>
@@ -38,7 +38,7 @@ Main tools: **PySpark**, **Delta Lake**, **Spotify API**, **Docker**, **GitHub A
 #### What Makes Europeans Happy? A Machine Learning Study
 <img alt="Subject well_being" src="/assets/portfolio/happiness.jpeg" align="right" width="100">
 
-This study uses data from the [ESS11](https://ess.sikt.no/en/?tab=overview) to model happiness prediction. Random Forest achieved the best performance (F1-score: 89%).  
+This study predicts happiness levels using data from the [ESS11](https://ess.sikt.no/en/?tab=overview), working with 40,156 individuals across Europe. Four models were applied — Logistic Regression, Random Forest, LightGBM, and XGBoost — with **Random Forest** performing best (F1-score: **89%**, recall for the “unhappy” class: **87%**).  
 Main tools: **Scikit-learn**, **Matplotlib**, **PostgreSQL**
 
 <p align='justify'>
@@ -51,7 +51,7 @@ Main tools: **Scikit-learn**, **Matplotlib**, **PostgreSQL**
 **Relational Data Modeling**  
 <img alt="Market Analysis" src="/assets/portfolio/ERD.png" align="right" width="100">
 
-Applied SQL analysis in marketing, operations, and finance contexts.  
+Imagine a company with thousands of customers, sales reps across multiple regions, and millions of dollars in orders. How do you figure out which region makes the most money, or which sales rep closes the biggest deals? You ask the database. I used PostgreSQL to query a real sales dataset and answer exactly those kinds of business questions — clearly and directly.  
 Main tool: **PostgreSQL**
 
 <p align='justify'>
