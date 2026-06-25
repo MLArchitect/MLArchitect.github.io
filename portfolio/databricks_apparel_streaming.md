@@ -20,7 +20,7 @@ This project solves that problem by building a real-time streaming pipeline that
 
 ***
 
-## Pipeline Architecture
+<h4>Pipeline Architecture</h4>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MLArchitect/databricks-apparel-streaming/main/DLT.png" width="900" alt="DLT Pipeline Graph">
@@ -39,7 +39,7 @@ All four schemas live inside the **`apparel_store`** Unity Catalog:
 
 ***
 
-## Step 1 — Landing Zone: Synthetic Data Generation
+<h4>Step 1 — Landing Zone: Synthetic Data Generation</h4>
 
 <p align='justify'>
 A synthetic data generator simulates a real apparel retail operation, continuously producing records for sales transactions, customers, products, and stores. Files land in a <strong>Unity Catalog Volume</strong> under <code>apparel_store.00_landing.streaming</code>, organized by entity:
@@ -57,7 +57,7 @@ This approach lets the pipeline run and be tested without needing a real product
 
 ***
 
-## Step 2 — Bronze Layer: Streaming Ingestion with DLT
+<h4>Step 2 — Bronze Layer: Streaming Ingestion with DLT</h4>
 
 <p align='justify'>
 The Bronze layer ingests raw files from the landing zone as <strong>streaming Delta tables</strong> using Databricks Auto Loader. Each table adds two audit columns — <code>ingest_timestamp</code> and <code>source_file_path</code> — to support lineage and traceability. All columns are cast to their correct types at this stage.
@@ -92,21 +92,19 @@ A missing primary key means the record cannot be linked to any other entity. Dro
 
 ***
 
-## Step 3 — Silver Layer: Cleaning, SCD Type 2, and Data Quality
+<h4>Step 3 — Silver Layer: Cleaning, SCD Type 2, and Data Quality</h4>
 
 <p align='justify'>
 The Silver layer transforms raw Bronze streams into clean, typed, business-meaningful tables. It is split into four files (02A through 02D), one per entity, each responsible for its own cleaning logic and quality rules.
 </p>
 
-### Streaming Views and Cleaned Streams
+**Streaming Views and Cleaned Streams**
 
-Each entity first passes through a **cleaning view** that applies business rules — for example, standardizing email formats, filtering out test records, and validating value ranges. These views act as a staging step before writing to persistent Silver tables.
+Each entity first passes through a cleaning view that applies business rules — standardizing email formats, filtering out test records, and validating value ranges. These views act as a staging step before writing to persistent Silver tables.
 
-### SCD Type 2 for Customer and Product Dimensions
+**SCD Type 2 for Customer and Product Dimensions**
 
-<p align='justify'>
-Customer and product records change over time — a customer updates their address, a product changes its price. Rather than overwriting the old record, <strong>SCD Type 2</strong> preserves the full history:
-</p>
+Customer and product records change over time — a customer updates their address, a product changes its price. Rather than overwriting the old record, SCD Type 2 preserves the full history:
 
 - When a record changes → the existing row is **closed** with an `end_date`
 - A new row is **inserted** with the updated values and a new `start_date`
@@ -114,7 +112,7 @@ Customer and product records change over time — a customer updates their addre
 
 This allows the pipeline to answer historical questions: *"What was this customer's address when they placed this order in March?"*
 
-### Silver Tables Produced
+**Silver Tables Produced**
 
 | Table | Description |
 |---|---|
@@ -129,7 +127,7 @@ This allows the pipeline to answer historical questions: *"What was this custome
 
 ***
 
-## Step 4 — Gold Layer: Aggregations and Materialized Views
+<h4>Step 4 — Gold Layer: Aggregations and Materialized Views</h4>
 
 <p align='justify'>
 The Gold layer is the analytics-facing output of the pipeline. It joins Silver tables and produces four business-ready outputs as <strong>materialized views</strong> in DLT — automatically refreshed whenever upstream Silver data changes.
@@ -144,7 +142,7 @@ The Gold layer is the analytics-facing output of the pipeline. It joins Silver t
 
 ***
 
-## Unity Catalog and Governance
+<h4>Unity Catalog and Governance</h4>
 
 <p align='justify'>
 All tables, schemas, and volumes are registered in <strong>Databricks Unity Catalog</strong> under the <code>apparel_store</code> catalog. This provides:
@@ -156,7 +154,7 @@ All tables, schemas, and volumes are registered in <strong>Databricks Unity Cata
 
 ***
 
-## Key Engineering Decisions
+<h4>Key Engineering Decisions</h4>
 
 | Decision | Why |
 |---|---|
@@ -169,7 +167,7 @@ All tables, schemas, and volumes are registered in <strong>Databricks Unity Cata
 
 ***
 
-## Tech Stack
+<h4>Tech Stack</h4>
 
 **Azure Databricks · Delta Live Tables · PySpark · Auto Loader · Delta Lake · Unity Catalog · Azure Data Lake Storage Gen2**
 
