@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Databricks Apparel Streaming Pipeline
+title: ""
 subtitle: Real-time retail analytics with Delta Live Tables and Unity Catalog
 cover-img: 
 thumbnail-img: 
 share-img: 
 tags: [Databricks, Delta Live Tables, PySpark, Unity Catalog, Streaming, Azure, Data Engineering]
 ---
+
+<h4>Databricks Apparel Streaming Pipeline</h4>
 
 <p align='justify'>
 This project is an end-to-end streaming data pipeline built on <strong>Databricks Delta Live Tables (DLT)</strong>, implementing a medallion architecture for a fictional apparel retail business. It covers the full journey from raw streaming data ingestion through to business-ready Gold aggregations — governed throughout by <strong>Unity Catalog</strong>.
