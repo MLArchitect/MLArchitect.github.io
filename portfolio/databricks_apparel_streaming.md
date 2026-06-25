@@ -11,11 +11,7 @@ tags: [Databricks, Delta Live Tables, PySpark, Unity Catalog, Streaming, Azure, 
 <h4>An End-to-End Data Pipeline for Smarter Retail Decisions</h4>
 
 <p align='justify'>
-Retail businesses lose revenue when they can't answer basic questions in time: <em>Which store is underperforming today? Which products are running out? Which customers haven't returned?</em> The data exists — but it sits in raw transaction files, unprocessed and unusable.
-</p>
-
-<p align='justify'>
-This project solves that problem by building a real-time streaming pipeline that continuously ingests sales, customer, product, and store data and delivers clean, analytics-ready outputs within minutes of each transaction. Business teams get always-fresh dashboards. Data quality issues are caught automatically before they reach reporting. Customer and product history is preserved across changes — so no analytical question is left unanswerable.
+A retail store generates data every second — every sale, every return, every customer interaction. The problem is that data alone doesn't help anyone. It needs to be collected, cleaned, and organized before a manager can use it. This project does exactly that: it takes raw transaction data from four streams and turns it into a live dashboard of business intelligence — automatically, reliably, and in real time.
 </p>
 
 ***

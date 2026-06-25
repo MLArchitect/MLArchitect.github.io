@@ -10,7 +10,7 @@ Data is only valuable when it drives decisions. These projects are my way of bri
 
 ***
 
-#### Streaming Pipeline That Tells Retailers What's Happening Right Now
+#### How Do Retailers Know What's Happening in Their Stores Right Now?
 <img alt="DLT Pipeline" src="https://raw.githubusercontent.com/MLArchitect/databricks-apparel-streaming/main/DLT.png" align="right" width="150">
 
 Real-time streaming data pipeline built on **Databricks Delta Live Tables** and **Unity Catalog**, implementing a medallion architecture for apparel retail analytics. Features Auto Loader ingestion, SCD Type 2 for customer and product dimensions, DLT data quality expectations, and materialized Gold views.  
