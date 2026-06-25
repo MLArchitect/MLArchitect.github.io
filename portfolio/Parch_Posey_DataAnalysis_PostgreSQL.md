@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Market Data Analysis
-subtitle: 
+title: ""
+subtitle: "How Data Modeling With SQL Answers Real Business Questions"
 cover-img: 
 thumbnail-img: 
 share-img: 
 tags: [Market Analysis, Data Analysis, SQL]
 ---
 
+<h4>Relational Data Modeling and Business Analytics With PostgreSQL</h4>
+
 <p align='justify'>
-I did data analysis related to Marketing, Operations, and Finance domains. It is an effort to use SQL tools to do production and sales assessments, answer necessary questions, and give a better insight for future decisions.
-</p> 
+Imagine a company with thousands of customers, sales reps across multiple regions, and millions of dollars in orders. How do you figure out which region makes the most money, or which sales rep closes the biggest deals? You ask the database. I used PostgreSQL to query a real sales dataset and answer exactly those kinds of business questions — clearly and directly.
+</p>
 
 <p align='justify'>
 The database has five tables including:
@@ -29,8 +31,7 @@ The Entity Relationship Diagram (ERD) for tables is as below:
 <p align="center">
 <img src="/assets/portfolio/ERD.png" width="700">
 </p>
-   
- 
+
 Through this section, I shared some of my efforts to answer analytics questions using PostgreSQL codes.  
 <br>
 
@@ -71,6 +72,3 @@ ON t1.reg_name = t2.reg_name;
 Region name: Northeast <br>
 Total sales amount (usd): 7744405.36  <br> 
 Total order: 2357
-
-
-This page will be updated with more analysis. 
