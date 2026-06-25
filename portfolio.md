@@ -1,10 +1,8 @@
 ---
 layout: page
-title: ""
+title: Portfolio
 subtitle: "Real-world data projects that turn complexity into clarity"
 ---
-
-<h4>Portfolio</h4>
 
 Data is only valuable when it drives decisions. These projects are my way of bridging the gap between raw data and real business impact.
 
