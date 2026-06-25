@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Portfolio
-subtitle:  Data science projects highlighting analysis and modeling
+title: ""
+subtitle: "Real-world data projects that turn complexity into clarity"
 ---
 
-Due to my interest in data analysis and product development, I share some of my projects with you.  
+<h4>Portfolio</h4>
+
+Data is only valuable when it drives decisions. These projects are my way of bridging the gap between raw data and real business impact.
 
 ***
 
