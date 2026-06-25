@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-subtitle: Real-time retail analytics with Delta Live Tables and Unity Catalog
+subtitle: "Real-time retail intelligence: turning raw transactions into actionable insights"
 cover-img: 
 thumbnail-img: 
 share-img: 
@@ -11,11 +11,11 @@ tags: [Databricks, Delta Live Tables, PySpark, Unity Catalog, Streaming, Azure, 
 <h4>Databricks Apparel Streaming Pipeline</h4>
 
 <p align='justify'>
-This project is an end-to-end streaming data pipeline built on <strong>Databricks Delta Live Tables (DLT)</strong>, implementing a medallion architecture for a fictional apparel retail business. It covers the full journey from raw streaming data ingestion through to business-ready Gold aggregations — governed throughout by <strong>Unity Catalog</strong>.
+Retail businesses lose revenue when they can't answer basic questions in time: <em>Which store is underperforming today? Which products are running out? Which customers haven't returned?</em> The data exists — but it sits in raw transaction files, unprocessed and unusable.
 </p>
 
 <p align='justify'>
-The pipeline processes four real-time data streams: sales transactions, customers, products, and stores. Each stream flows through Bronze, Silver, and Gold layers with data quality enforcement, SCD Type 2 historical tracking, and materialized Gold views for analytics.
+This project solves that problem by building a real-time streaming pipeline that continuously ingests sales, customer, product, and store data and delivers clean, analytics-ready outputs within minutes of each transaction. Business teams get always-fresh dashboards. Data quality issues are caught automatically before they reach reporting. Customer and product history is preserved across changes — so no analytical question is left unanswerable.
 </p>
 
 ***
