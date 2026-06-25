@@ -47,7 +47,8 @@ Main tools: **Scikit-learn**, **Matplotlib**, **PostgreSQL**
 
 ***
 
-#### How Do You Find Your Best Region, Top Rep, and Biggest Opportunity — With Just SQL?
+#### Relational Data Modeling
+<small>How Do You Find Your Best Region, Top Rep, and Biggest Opportunity — With Just SQL?</small>  
 <img alt="Market Analysis" src="/assets/portfolio/ERD.png" align="right" width="100">
 
 Applied SQL analysis in marketing, operations, and finance contexts.  
