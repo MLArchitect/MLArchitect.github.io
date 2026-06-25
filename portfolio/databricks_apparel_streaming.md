@@ -8,7 +8,7 @@ share-img:
 tags: [Databricks, Delta Live Tables, PySpark, Unity Catalog, Streaming, Azure, Data Engineering]
 ---
 
-<h4>Databricks Apparel Streaming Pipeline</h4>
+<h4>An End-to-End Data Pipeline for Smarter Retail Decisions</h4>
 
 <p align='justify'>
 Retail businesses lose revenue when they can't answer basic questions in time: <em>Which store is underperforming today? Which products are running out? Which customers haven't returned?</em> The data exists — but it sits in raw transaction files, unprocessed and unusable.
