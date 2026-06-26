@@ -4,16 +4,18 @@ title: ""
 subtitle: ""
 ---
 
-<div style="text-align: center; line-height: 2em; margin-bottom: 30px;">
+<div style="text-align: center; line-height: 2em; margin-bottom: 10px;">
 <span style="font-size: 2em;"><strong>Ella Naderi</strong></span><br>
 <span style="font-size: 1.1em;">
 BI Data Engineer @ <a href="https://en.zamzam.ir/" target="_blank">Zamzam</a><br>
-Data Analyst @ <a href="http://sanat-gk.com/" target="_blank">Sanat Gostar Kish</a><br>
-<br>
+Data Analyst @ <a href="http://sanat-gk.com/" target="_blank">Sanat Gostar Kish</a>
+</span>
+</div>
+
+<div style="text-align: left; font-size: 1.1em; line-height: 2em; margin-bottom: 30px;">
 I strongly advocate <strong>data quality</strong>, <strong>automation</strong>, and building solutions that actually get used.<br>
 I enjoy turning messy, complex data into something businesses can trust and act on.<br>
 Living in the Netherlands 🇳🇱
-</span>
 </div>
 
 #### How Do Retailers Know What's Happening in Their Stores Right Now?
