@@ -4,7 +4,7 @@ title: ""
 subtitle: "Real-world data projects that turn complexity into clarity"
 ---
 
-<div style="font-size: 1.1em; line-height: 2em; margin-bottom: 20px;">
+<div style="text-align: center; font-size: 1.1em; line-height: 2em; margin-bottom: 20px;">
 <strong>Ella Naderi</strong><br>
 BI Data Engineer @ <a href="https://en.zamzam.ir/" target="_blank">Zamzam</a><br>
 Data Analyst @ <a href="http://sanat-gk.com/" target="_blank">Sanat Gostar Kish</a><br>
