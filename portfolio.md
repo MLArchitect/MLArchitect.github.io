@@ -4,7 +4,7 @@ title: ""
 subtitle: ""
 ---
 
-<div style="text-align: center; line-height: 2em; margin-bottom: 20px;">
+<div style="text-align: center; line-height: 2em; margin-bottom: 30px;">
 <span style="font-size: 2em;"><strong>Ella Naderi</strong></span><br>
 <span style="font-size: 1.1em;">
 BI Data Engineer @ <a href="https://en.zamzam.ir/" target="_blank">Zamzam</a><br>
@@ -15,8 +15,6 @@ I enjoy turning messy, complex data into something businesses can trust and act 
 Living in the Netherlands 🇳🇱
 </span>
 </div>
-
-***
 
 #### How Do Retailers Know What's Happening in Their Stores Right Now?
 <img alt="DLT Pipeline" src="https://raw.githubusercontent.com/MLArchitect/databricks-apparel-streaming/main/DLT.png" align="right" width="150">
