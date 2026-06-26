@@ -1,17 +1,19 @@
 ---
 layout: page
 title: ""
-subtitle: "Real-world data projects that turn complexity into clarity"
+subtitle: ""
 ---
 
-<div style="text-align: center; font-size: 1.1em; line-height: 2em; margin-bottom: 20px;">
-<strong>Ella Naderi</strong><br>
+<div style="text-align: center; line-height: 2em; margin-bottom: 20px;">
+<span style="font-size: 2em;"><strong>Ella Naderi</strong></span><br>
+<span style="font-size: 1.1em;">
 BI Data Engineer @ <a href="https://en.zamzam.ir/" target="_blank">Zamzam</a><br>
 Data Analyst @ <a href="http://sanat-gk.com/" target="_blank">Sanat Gostar Kish</a><br>
 <br>
 I strongly advocate <strong>data quality</strong>, <strong>automation</strong>, and building solutions that actually get used.<br>
 I enjoy turning messy, complex data into something businesses can trust and act on.<br>
 Living in the Netherlands 🇳🇱
+</span>
 </div>
 
 ***
