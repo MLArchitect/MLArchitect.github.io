@@ -4,7 +4,15 @@ title: Portfolio
 subtitle: "Real-world data projects that turn complexity into clarity"
 ---
 
-Data is only valuable when it drives decisions. These projects are my way of bridging the gap between raw data and real business impact.
+<div style="font-size: 1.1em; line-height: 2em; margin-bottom: 20px;">
+<strong>Ella Naderi</strong><br>
+BI Data Engineer @ <a href="https://en.zamzam.ir/" target="_blank">Zamzam</a><br>
+Data Analyst @ <a href="http://sanat-gk.com/" target="_blank">Sanat Gostar Kish</a><br>
+<br>
+I strongly advocate <strong>data quality</strong>, <strong>automation</strong>, and building solutions that actually get used.<br>
+I enjoy turning messy, complex data into something businesses can trust and act on.<br>
+Living in the Netherlands 🇳🇱
+</div>
 
 ***
 
