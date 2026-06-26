@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Portfolio
+title: ""
 subtitle: "Real-world data projects that turn complexity into clarity"
 ---
+
+<h4>Portfolio</h4>
 
 <div style="font-size: 1.1em; line-height: 2em; margin-bottom: 20px;">
 <strong>Ella Naderi</strong><br>
